@@ -1,0 +1,12 @@
+name: shinyUIbuilder
+title: shinyUIbuilder
+username:
+account: norimitsu-nisida
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2418094
+bundleId: 3236019
+url: https://norimitsu-nisida.shinyapps.io/shinyUIbuilder/
+when: 1591454693.2991
+asMultiple: FALSE
+asStatic: FALSE
