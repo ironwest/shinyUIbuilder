@@ -5,8 +5,8 @@ account: norimitsu-nisida
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2418094
-bundleId: 3236019
+bundleId: 3238119
 url: https://norimitsu-nisida.shinyapps.io/shinyUIbuilder/
-when: 1591454693.2991
+when: 1591528625.05224
 asMultiple: FALSE
 asStatic: FALSE
